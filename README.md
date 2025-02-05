@@ -22,7 +22,8 @@
 <br>
 <h3>Funcionalidade</h3>
 <p>Ao acessar a pagina você se depara com o campo: "Digite um nome", ao escrever um nome e clicar em adicionar,<br>
-  você adiciona o nome digitado a uma lista para gerar o sorteio futuramente.
+  você adiciona o nome digitado a uma lista para sortear futuramente. Quando terminar de adicionar os nomes,<br>
+  clique em: "Sortear amigo", com isso será sorteado um nome dessa lista, o mesmo aparecera em azul, logo a cima do botão: "Sortear amigo".
 </p>
 
 
