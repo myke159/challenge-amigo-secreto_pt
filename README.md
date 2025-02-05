@@ -7,8 +7,10 @@
 ![image](https://github.com/user-attachments/assets/20f585bc-ba3d-49e6-93bd-c880dbbb8096)
 ![image](https://github.com/user-attachments/assets/04d51e46-9858-46d1-8a19-57043b045834)
 ![image](https://github.com/user-attachments/assets/647eda04-072c-4fac-b4a4-f8ec53cd4a47)
+<p>Podemos notar que o nome sorteado foi: Leonardo</p>
 
-
+<h3>Tratamento de erros</h3>
+<p>Nome vazio</p>
 
 
 
