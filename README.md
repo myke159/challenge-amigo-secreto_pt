@@ -11,6 +11,11 @@
 
 <h3>Tratamento de erros</h3>
 <p>Nome vazio</p>
+![image](https://github.com/user-attachments/assets/f5fb6ce6-9a7f-4ee3-8486-975a4bbea055)
+![image](https://github.com/user-attachments/assets/2f3b24ca-2f0b-413b-ac40-3d015998eb3d)
+<p>Sortear sem nomes</p>
+![image](https://github.com/user-attachments/assets/ce01b90b-326c-48a6-9c0e-e539ed66e373)
+
 
 
 
