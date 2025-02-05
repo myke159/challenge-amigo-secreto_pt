@@ -9,7 +9,7 @@
 ![image](https://github.com/user-attachments/assets/647eda04-072c-4fac-b4a4-f8ec53cd4a47)
 <strong><p>Podemos notar que o nome sorteado foi: Leonardo</p></strong>
 
-<h3>Tratamento de erros</h3>
+<h1>Tratamento de erros</h1>
 <p>Nome vazio</p>
 
 ![image](https://github.com/user-attachments/assets/f5fb6ce6-9a7f-4ee3-8486-975a4bbea055)
@@ -18,9 +18,11 @@
 <p>Sortear sem nomes</p>
 
 ![image](https://github.com/user-attachments/assets/bc0697fd-59fc-4607-8fd8-4a86a280f710)
-
-
-
+<br>
+<br>
+<h3>Funcionalidade</h3>
+<p>Ao acessar a pagina você se depara com o campo: "Digite um nome", ao escrever um nome 
+  e clicar em adicionar</p>
 
 
 
