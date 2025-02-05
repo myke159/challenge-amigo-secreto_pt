@@ -1,5 +1,5 @@
 <h1>Amigo Secreto</h1>
-
+<br>
 <h2>Utilização</h2>
 <p>Usado para Sortear um nome aleatório de uma lista.</p>
 <p>Ao acessar a pagina você se depara com o campo: "Digite um nome", ao escrever um nome e clicar em adicionar,<br>
@@ -17,6 +17,10 @@
 
 <h2>Tratamento de erros</h2>
 <p>Nome vazio</p>
+<p>Ao tentar adicionar um nome com o campo vazio, aparecera um alerta: "Não é possivel sortear sem nomes na lista!!"<br>
+  E caso tente Sortear amigo, aparecera um alerta: "Não é possivel sortear sem nomes na lista!!"
+</p>
+
 
 ![image](https://github.com/user-attachments/assets/f5fb6ce6-9a7f-4ee3-8486-975a4bbea055)
 ![image](https://github.com/user-attachments/assets/2f3b24ca-2f0b-413b-ac40-3d015998eb3d)
