@@ -21,8 +21,9 @@
 <br>
 <br>
 <h3>Funcionalidade</h3>
-<p>Ao acessar a pagina você se depara com o campo: "Digite um nome", ao escrever um nome 
-  e clicar em adicionar</p>
+<p>Ao acessar a pagina você se depara com o campo: "Digite um nome", ao escrever um nome e clicar em adicionar,<br>
+  você adiciona o nome digitado a uma lista para gerar o sorteio futuramente.
+</p>
 
 
 
