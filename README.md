@@ -9,7 +9,6 @@
 ![image](https://github.com/user-attachments/assets/647eda04-072c-4fac-b4a4-f8ec53cd4a47)
 <strong><p>Podemos notar que o nome sorteado foi: Leonardo</p></strong>
 
-
 <h3>Tratamento de erros</h3>
 <p>Nome vazio</p>
 
@@ -18,7 +17,8 @@
 
 <p>Sortear sem nomes</p>
 
-![image](https://github.com/user-attachments/assets/ce01b90b-326c-48a6-9c0e-e539ed66e373)
+![image](https://github.com/user-attachments/assets/bc0697fd-59fc-4607-8fd8-4a86a280f710)
+
 
 
 
