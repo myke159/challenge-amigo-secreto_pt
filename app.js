@@ -36,7 +36,7 @@ function sortearAmigo() {
     if (amigos.length == 0) {
         alert("Não é possivel sortear sem nomes na lista!!")
     } else {
-        
+
 
         let indiceAleatorio = Math.floor(Math.random() * amigos.length);
 
@@ -47,6 +47,6 @@ function sortearAmigo() {
 
         amigos = []
         gerarListaAmigos()
-        console.log("sortearAmigo")
+        // console.log("sortearAmigo")
     }
 }
