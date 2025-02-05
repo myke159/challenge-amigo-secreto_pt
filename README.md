@@ -1,5 +1,11 @@
 <h1>Amigo Secreto</h1>
+
+<h2>Utilização</h2>
 <p>Usado para Sortear um nome aleatório de uma lista.</p>
+<p>Ao acessar a pagina você se depara com o campo: "Digite um nome", ao escrever um nome e clicar em adicionar,<br>
+  você adiciona o nome digitado a uma lista para sortear futuramente. Quando terminar de adicionar os nomes,<br>
+  clique em: "Sortear amigo", com isso será sorteado um nome dessa lista, o mesmo aparecera em azul, logo a cima do botão: "Sortear amigo".
+</p>
 
 ![image](https://github.com/user-attachments/assets/7c36bb96-9ce5-45e8-8abe-9b5fe63dc2bd)
 ![image](https://github.com/user-attachments/assets/a92f209d-d49d-484a-a52c-2993f35cccfd)
@@ -9,7 +15,7 @@
 ![image](https://github.com/user-attachments/assets/647eda04-072c-4fac-b4a4-f8ec53cd4a47)
 <strong><p>Podemos notar que o nome sorteado foi: Leonardo</p></strong>
 
-<h1>Tratamento de erros</h1>
+<h2>Tratamento de erros</h2>
 <p>Nome vazio</p>
 
 ![image](https://github.com/user-attachments/assets/f5fb6ce6-9a7f-4ee3-8486-975a4bbea055)
@@ -20,11 +26,8 @@
 ![image](https://github.com/user-attachments/assets/bc0697fd-59fc-4607-8fd8-4a86a280f710)
 <br>
 <br>
-<h3>Funcionalidade</h3>
-<p>Ao acessar a pagina você se depara com o campo: "Digite um nome", ao escrever um nome e clicar em adicionar,<br>
-  você adiciona o nome digitado a uma lista para sortear futuramente. Quando terminar de adicionar os nomes,<br>
-  clique em: "Sortear amigo", com isso será sorteado um nome dessa lista, o mesmo aparecera em azul, logo a cima do botão: "Sortear amigo".
-</p>
+
+
 
 
 
