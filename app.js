@@ -10,8 +10,9 @@ function adicionarAmigo() {
     } else {
         amigos.push(nomeAmigo);
         document.getElementById('amigo').value = '';
-        console.log(amigos);
-
+        // console.log(amigos);
+        let campo = document.getElementById('resultado');
+        campo.innerHTML = '';
     }
     gerarListaAmigos()
 }
@@ -26,4 +27,26 @@ function gerarListaAmigos() {
         lista.appendChild(li)
     })
 
+}
+
+
+function sortearAmigo() {
+
+
+    if (amigos.length == 0) {
+        alert("Não é possivel sortear sem nomes na lista!!")
+    } else {
+        
+
+        let indiceAleatorio = Math.floor(Math.random() * amigos.length);
+
+
+        let amigoSorteado = amigos[indiceAleatorio];
+        let campo = document.getElementById('resultado');
+        campo.innerHTML = amigoSorteado;
+
+        amigos = []
+        gerarListaAmigos()
+        console.log("sortearAmigo")
+    }
 }
